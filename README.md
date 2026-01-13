@@ -1,52 +1,104 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pankaj+Negi+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Architect+%7C+Agentic+AI+Builder;I+Build+Real-World+AI+Products+%F0%9F%9A%80;Healthcare+AI+%7C+Recruitment+AI+%7C+Finance+AI" />
+</h1>
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+## 🧠 About Me  
 
-###
+🚀 **AI & Machine Learning Engineer** building **real-world AI products**  
+🎯 Focused on **LLMs, RAG systems, AI agents, and full-stack AI platforms**  
+💡 I turn **complex AI research into scalable production systems**
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+Currently working on:
+- 🧬 Healthcare AI (LLM fine-tuning, diagnosis & treatment engines)
+- 🤖 AI-powered Recruitment Platforms
+- 📈 Financial AI using RAG + LLMs
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🏆 Professional Experience  
 
-###
+### **Machine Learning Intern — Veersa Technologies (2025)**
+🔥 Built a **full AI-powered hiring platform**  
+- Automated resume screening & JD-skill matching  
+- Built **AI interviews (voice + camera + cheating detection)**  
+- Created **LLM-based MCQ & assessment engines**  
+- Reduced HR workload by **80–85%**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+---
 
-###
+## 🧬 Flagship AI Projects  
+
+### 🏥 **Healthcare AI Assistant**
+> LLM-powered clinical diagnosis engine  
+
+- Multi-LLM architecture (DeepSeek, LLaMA-70B, BioGPT)  
+- Symptom → disease prediction using **LoRA fine-tuning**  
+- Adaptive MCQs, follow-up questions, confidence scoring  
+- 85–92% accuracy across 800+ diseases  
+
+---
+
+### 📊 **AI Stock Market Assistant**
+> RAG-based financial analyst for NIFTY-50  
+
+- Yahoo Finance + Screener.in scraping  
+- FAISS vector DB + LangChain  
+- GROQ LLM for Q&A & insights  
+- Live Streamlit dashboards  
+
+---
+
+### 🏏 **IPL Win Predictor**
+> Real-time match outcome prediction  
+
+- ML model using live match data  
+- Streamlit + Plotly interactive dashboards  
+- Probability tracking ball-by-ball  
+
+---
+
+## 🛠 Tech Stack  
+
+### Languages  
+`Python` `C++` `SQL`
+
+### AI & ML  
+`PyTorch` `TensorFlow` `LangChain` `HuggingFace` `YOLO`  
+`LLM Fine-Tuning` `LoRA` `QLoRA` `RAG` `Agentic AI`
+
+### Backend & Tools  
+`FastAPI` `Streamlit` `PostgreSQL` `MySQL`  
+`Groq API` `AutoGen` `GitHub` `VS Code`
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Pankajnegi356&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajnegi356&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📈 Most Used Languages  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajnegi356&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+<a href="https://linkedin.com/in/pankaj-negi17"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:negipankaj1712@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://github.com/Pankajnegi356"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+<h3 align="center">⚡ "I don’t just use AI — I build intelligent systems that work in the real world."</h3>
