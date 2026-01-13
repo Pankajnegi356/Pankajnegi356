@@ -39,22 +39,48 @@ I believe in **deep learning, real deployment, and engineering discipline**.
 
 ### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,sql&theme=dark"/>
 </p>
 
-### 🧠 AI & Machine Learning
+---
+
+### 🧠 AI, Machine Learning & Data
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 </p>
+
+---
+
+### 🤖 LLM, RAG & Agentic AI
+<p>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" width="40"/>
+</p>
+
+---
 
 ### 🌐 Full-Stack & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark"/>
 </p>
 
-### 🗄️ Databases & Tools
+---
+
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+</p>
+
+---
+
+### ⚙️ DevOps, OS & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,postman,vscode,figma&theme=dark"/>
 </p>
 
 ---
